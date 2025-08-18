@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "arabic": 1,
+    "backend": 2,
+    "design-patterns": 3,
+    "javascript": 4,
+    "leetcode": 5,
+    "mongodb": 6,
+    "nodejs": 7,
+    "sql": 8,
+    "ui-ux": 9,
+    "templ": 10,
+    "go": 11,
+    "reactjs": 12
+  },
+  "_version": 3
+}
