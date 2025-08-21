@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/tauri/state_management.md",
+                "file": "rust/performance/heap_allocations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "state_management"
+              "title": "heap_allocations"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust/tauri/state_management.md",
+                "file": "rust/performance/heap_allocations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for state_management"
+              "title": "Backlinks for heap_allocations"
             }
           },
           {
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,41 +193,41 @@
   },
   "active": "9aa12246d7fb0994",
   "lastOpenFiles": [
-    "Untitled.md",
-    "rust/tauri/state_management.md",
+    "rust/performance/hashing.md",
+    "rust/performance/heap_allocations.md",
+    "rust/performance/inlining.md",
+    "rust/performance/profiling.md",
+    "rust/performance/linting.md",
+    "rust/performance/build_configuration.md",
+    "rust/performance/benchmarking.md",
+    "rust/rustc/profile-guided_optimization.md",
+    "rust/performance/_introduction.md",
+    "rust/performance",
+    "rust/rustc/instrument-based_code_coverage.md",
+    "rust/rustc/jobserver.md",
+    "rust/rustc/_introduction.md",
+    "rust/tauri/commands_vs_plugins.md",
+    "rust/rustc",
+    "rust/tauri/calling_rust_from_frontend.md",
     "rust/tauri/architecture.md",
+    "rust/tauri/calling_frontend_from_rust.md",
+    "rust/tauri/inter-process_communication.md",
+    "rust/tauri/embedding_additional_files.md",
+    "rust/tauri/updating_dependencies.md",
+    "rust/tauri/state_management.md",
+    "Untitled.md",
     "rust/tauri/app_size.md",
     "rust/tauri/embedding_external_binaries.md",
     "backend/System Design Availability vs Consistency.md",
     "backend/System Design Availability Patterns.md",
     "backend/Synchronous vs Asynchronous.md",
-    "rust/tauri/embedding_additional_files.md",
     "frontend/htmx",
-    "frontend/html.md",
     "frontend",
-    "rust/tauri/calling_frontend_from_rust.md",
-    "rust/tauri/calling_rust_from_frontend.md",
-    "rust/tauri/configuration.md",
-    "rust/tauri/source_control.md",
-    "rust/tauri/commands_vs_plugins.md",
-    "rust/tauri/inter-process_communication.md",
-    "rust/tauri/process_model.md",
-    "rust/tauri/project_structure.md",
-    "rust/tauri/_introduction.md",
-    "go/templ/syntax.md",
     "rust/tauri",
     "rust",
-    "go/templ/rendering.md",
-    "go/templ/_introduction.md",
-    "go/templ/creating a component.md",
-    "re.md",
     "go/templ",
-    "leetcode/Arrays & Hashing Contains Duplicate.md",
-    "backend/File Writes, OS Cache, and.md",
     "arabic/سلسلة كتاب المدينة الدرس الرابع.pdf",
     "ui-ux",
-    "frontend/reactjs",
-    "sql",
-    "nodejs"
+    "frontend/reactjs"
   ]
 }
