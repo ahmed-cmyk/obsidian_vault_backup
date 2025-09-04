@@ -1,6 +1,125 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "nM6NFAXWbFzXgUa3BdZuY",
+      "name": "Yellow",
+      "value": "#ffde21"
+    },
+    {
+      "id": "ykphXJMXid5cjtM71U0KE",
+      "name": "Android",
+      "value": "#3ddc84"
+    },
+    {
+      "id": "EWvEzYuZMmFTHDP8esk2e",
+      "name": "Node",
+      "value": "#339933"
+    },
+    {
+      "id": "pj-IMnztlUWyR3RJ8mrKe",
+      "name": "Mongo",
+      "value": "#47a248"
+    },
+    {
+      "id": "44zHMgXFHRLZ2ObNDahYE",
+      "name": "Rust",
+      "value": "#dea584"
+    },
+    {
+      "id": "ZAjUEmNWy9m_EotfGn0-e",
+      "name": "JS",
+      "value": "#f7df1e"
+    },
+    {
+      "id": "ZRKr3ywr3PwBfUZ3G4NHL",
+      "name": "golang",
+      "value": "#00add8"
+    },
+    {
+      "id": "WNC6mCqSj39riXyKbF53f",
+      "name": "laravel",
+      "value": "#ff2d20"
+    },
+    {
+      "id": "XH-jJi8f0Zr3u6goGkY_u",
+      "name": "TS",
+      "value": "#3178c0"
+    },
+    {
+      "id": "6OuBRj-UBFxuYbKVoqc0q",
+      "name": "html",
+      "value": "#e34f26"
+    },
+    {
+      "id": "KFnOKq8svAgZjr3r9Iikx",
+      "name": "htmx",
+      "value": "#3366cc"
+    },
+    {
+      "id": "hUPoeGNs84TvlPDBsS1tM",
+      "name": "react",
+      "value": "#61dafb"
+    },
+    {
+      "id": "P8s-FukJtt_8BWYSWfHF4",
+      "name": "css",
+      "value": "#1572b6"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "dsa/leetcode",
+      "color": "nM6NFAXWbFzXgUa3BdZuY"
+    },
+    {
+      "path": "mobile/android",
+      "color": "ykphXJMXid5cjtM71U0KE"
+    },
+    {
+      "path": "backend/nodejs",
+      "color": "EWvEzYuZMmFTHDP8esk2e"
+    },
+    {
+      "path": "mongodb",
+      "color": "pj-IMnztlUWyR3RJ8mrKe"
+    },
+    {
+      "path": "rust",
+      "color": "44zHMgXFHRLZ2ObNDahYE"
+    },
+    {
+      "path": "javascript",
+      "color": "ZAjUEmNWy9m_EotfGn0-e"
+    },
+    {
+      "path": "go",
+      "color": "ZRKr3ywr3PwBfUZ3G4NHL"
+    },
+    {
+      "path": "backend/laravel",
+      "color": "WNC6mCqSj39riXyKbF53f"
+    },
+    {
+      "path": "typescript",
+      "color": "XH-jJi8f0Zr3u6goGkY_u"
+    },
+    {
+      "path": "frontend/html",
+      "color": "6OuBRj-UBFxuYbKVoqc0q"
+    },
+    {
+      "path": "frontend/htmx",
+      "color": "KFnOKq8svAgZjr3r9Iikx"
+    },
+    {
+      "path": "frontend/reactjs",
+      "color": "hUPoeGNs84TvlPDBsS1tM"
+    },
+    {
+      "path": "frontend/css",
+      "color": "P8s-FukJtt_8BWYSWfHF4"
+    }
+  ]
 }

@@ -34,7 +34,7 @@ codegen-units = 1
 
 ### Link-time Optimization
 
-Link-time optimization (LTO) is a whole-program optimization technique that can improve runtime speed by 10-20% or more, and also reduce binary size at the cost of worse compile times.
+**Link-time optimization (LTO)** is a whole-program optimization technique that can improve runtime speed by 10-20% or more, and also reduce binary size at the cost of worse compile times.
 
 It comes in several forms.
 

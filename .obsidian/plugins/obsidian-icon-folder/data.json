@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiSpeedUpFill",
-      "FabRust",
-      "LiDatabase",
-      "FabGolang",
-      "RiJavascriptFill"
+      "FabCss3Alt",
+      "BoBxlTypescript",
+      "BoBxlMongodb",
+      "BoBxlPostgresql",
+      "FabHtml5"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,11 +36,22 @@
   },
   "rust": "FabRust",
   "rust/tauri": "FasDesktop",
-  "nodejs": "FabNodeJs",
   "mongodb": "FasDatabase",
   "javascript": "RiJavascriptFill",
   "go": "FabGolang",
   "sql": "LiDatabase",
   "rust/rustc": "FabRust",
-  "rust/performance": "RiSpeedUpFill"
+  "rust/performance": "RiSpeedUpFill",
+  "machine-learning": "RiRobot3Fill",
+  "mobile": "FasMobileScreen",
+  "mobile/android": "FabAndroid",
+  "frontend/reactjs": "FabReact",
+  "dsa": "FasPuzzlePiece",
+  "backend/nodejs": "FabNodeJs",
+  "backend/laravel": "FabLaravel",
+  "frontend/html": "FabHtml5",
+  "databases/postgresql": "BoBxlPostgresql",
+  "databases/mongodb": "BoBxlMongodb",
+  "typescript": "BoBxlTypescript",
+  "frontend/css": "FabCss3Alt"
 }
