@@ -21,7 +21,9 @@
     "ui-ux": 9,
     "templ": 10,
     "go": 11,
-    "reactjs": 12
+    "reactjs": 12,
+    "networking": 13,
+    "animations": 14
   },
   "_version": 3
 }

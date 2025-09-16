@@ -1,0 +1,35 @@
+# React Native Notes
+
+This directory contains a comprehensive set of notes on React Native, covering everything from fundamental concepts to advanced topics, internals, and third-party libraries. It is designed to provide a solid foundation for beginners and deepen the knowledge of experienced developers.
+
+## Table of Contents
+
+- [Getting Started](01_getting_started/README.md)
+  - [Installation and Setup](01_getting_started/installation_and_setup.md)
+  - [Project Structure](01_getting_started/project_structure.md)
+- [Core Concepts](02_core_concepts/README.md)
+  - [Components and Props](02_core_concepts/components_and_props.md)
+  - [State and Lifecycle](02_core_concepts/state_and_lifecycle.md)
+  - [Styling](02_core_concepts/styling.md)
+  - [Handling User Input](02_core_concepts/handling_user_input.md)
+- [Advanced Concepts](03_advanced_concepts/README.md)
+  - [Navigation](03_advanced_concepts/navigation.md)
+  - [Data Management](03_advanced_concepts/data_management.md)
+  - [Performance Optimization](03_advanced_concepts/performance_optimization.md)
+- [Internals](04_internals/README.md)
+  - [JavaScript Bridge](04_internals/javascript_bridge.md)
+  - [Native Modules](04_internals/native_modules.md)
+  - [Native UI Components](04_internals/native_ui_components.md)
+  - [Old Architecture](04_internals/old_architecture.md)
+  - [New Architecture (Fabric & TurboModules)](04_internals/new_architecture_fabric_turbomodules.md)
+- [Third-Party Libraries](05_third_party_libraries/README.md)
+  - [State Management Libraries](05_third_party_libraries/state_management_libraries.md)
+  - [Navigation Libraries](05_third_party_libraries/navigation_libraries.md)
+  - [UI Libraries](05_third_party_libraries/ui_libraries.md)
+  - [Utility Libraries](05_third_party_libraries/utility_libraries.md)
+- [Testing](06_testing/README.md)
+  - [Unit Testing](06_testing/unit_testing.md)
+  - [Integration Testing](06_testing/integration_testing.md)
+- [Deployment](07_deployment/README.md)
+  - [iOS Deployment](07_deployment/ios_deployment.md)
+  - [Android Deployment](07_deployment/android_deployment.md)

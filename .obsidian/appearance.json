@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "Chalkboard",
+  "monospaceFontFamily": "JetBrains Mono"
 }

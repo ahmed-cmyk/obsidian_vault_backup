@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
   "vimMode": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": true
 }

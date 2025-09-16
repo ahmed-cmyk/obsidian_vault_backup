@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabCss3Alt",
-      "BoBxlTypescript",
-      "BoBxlMongodb",
-      "BoBxlPostgresql",
-      "FabHtml5"
+      "BoBxlPhp",
+      "FabPython",
+      "RiDatabaseLine",
+      "FasPaintbrush",
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,6 @@
   "mongodb": "FasDatabase",
   "javascript": "RiJavascriptFill",
   "go": "FabGolang",
-  "sql": "LiDatabase",
   "rust/rustc": "FabRust",
   "rust/performance": "RiSpeedUpFill",
   "machine-learning": "RiRobot3Fill",
@@ -53,5 +52,11 @@
   "databases/postgresql": "BoBxlPostgresql",
   "databases/mongodb": "BoBxlMongodb",
   "typescript": "BoBxlTypescript",
-  "frontend/css": "FabCss3Alt"
+  "frontend/css": "FabCss3Alt",
+  "databases/sql": "LiDatabase",
+  "system-design": "LiComputer",
+  "design": "FasPaintbrush",
+  "databases": "RiDatabaseLine",
+  "python": "FabPython",
+  "php": "BoBxlPhp"
 }

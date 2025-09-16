@@ -66,6 +66,16 @@
       "id": "P8s-FukJtt_8BWYSWfHF4",
       "name": "css",
       "value": "#1572b6"
+    },
+    {
+      "id": "pnGsSEyR7buy7QSBbyVvX",
+      "name": "python",
+      "value": "#ffde57"
+    },
+    {
+      "id": "sxTx7--eonx-LjNIIMNaz",
+      "name": "php",
+      "value": "#787cb5"
     }
   ],
   "fileColors": [
@@ -120,6 +130,14 @@
     {
       "path": "frontend/css",
       "color": "P8s-FukJtt_8BWYSWfHF4"
+    },
+    {
+      "path": "python",
+      "color": "pnGsSEyR7buy7QSBbyVvX"
+    },
+    {
+      "path": "php",
+      "color": "sxTx7--eonx-LjNIIMNaz"
     }
   ]
 }
