@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mobile/lynxjs/event_propagation.md",
+                "file": "mobile/flutter/state_management_intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "event_propagation"
+              "title": "state_management_intro"
             }
           }
         ]
@@ -194,8 +194,17 @@
   },
   "active": "a6dd803f7b1492ec",
   "lastOpenFiles": [
-    "mobile/lynxjs/handling_events.md",
+    "mobile/flutter/navigation_basics.md",
+    "mobile/flutter/layout_widgets.md",
+    "mobile/flutter/getting_started.md",
     "mobile/lynxjs/event_propagation.md",
+    "mobile/flutter/state_management_intro.md",
+    "mobile/flutter/widgets_overview.md",
+    "mobile/flutter",
+    "backend/laravel/eloquent.md",
+    "mobile/lynxjs/manipulating_elements.md",
+    "mobile/lynxjs/event_system.md",
+    "mobile/lynxjs/handling_events.md",
     "mobile/lynxjs/manage_scrolling.md",
     "mobile/lynxjs/layout.md",
     "mobile/lynxjs/styling_with_css.md",
@@ -212,14 +221,6 @@
     "dsa/fundamentals/algorithms/Floyd_Warshall_Algorithm.md",
     "dsa/fundamentals/algorithms/Kruskals_Algorithm.md",
     "dsa/fundamentals/algorithms/Prims_Algorithm.md",
-    "dsa/fundamentals/data_structures/Fenwick_Trees.md",
-    "dsa/fundamentals/algorithms/Dijkstras_Algorithm.md",
-    "dsa/fundamentals/data_structures/Segment_Trees.md",
-    "dsa/fundamentals/algorithms/Breadth_First_Search.md",
-    "dsa/fundamentals/algorithms/Depth_First_Search.md",
-    "dsa/fundamentals/data_structures/Tries.md",
-    "dsa/fundamentals/data_structures/Heaps.md",
-    "dsa/fundamentals/algorithms/Quick_Sort.md",
     "dsa/fundamentals/algorithms",
     "dsa/fundamentals/data_structures",
     "mobile/lynxjs",
@@ -228,7 +229,6 @@
     "mobile/react-native/05_third_party_libraries",
     "mobile/react-native/04_internals",
     "mobile/react-native/03_advanced_concepts",
-    "mobile/react-native/02_core_concepts",
-    "mobile/react-native/01_getting_started"
+    "mobile/react-native/02_core_concepts"
   ]
 }

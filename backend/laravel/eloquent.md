@@ -69,7 +69,7 @@ $email = User::where('id', 1)->value('email');
 
 - **where($column, $operator, $value)**
     
-    Add a basic where clause.
+    Add a basic `where` clause.
     
 
 ```php
@@ -98,7 +98,7 @@ $users = User::whereIn('id', [1,2,3])->get();
 
 - **whereNotIn()**
     
-    Opposite of whereIn.
+    Opposite of `whereIn`.
     
 
 ```php
@@ -107,7 +107,7 @@ $users = User::whereNotIn('id', [1,2,3])->get();
 
 - **whereNull() / whereNotNull()**
     
-    Check for NULL values.
+    Check for `NULL` values.
     
 
 ```php
